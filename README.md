@@ -1,2 +1,2 @@
 my second readme
-update readme
+update readme.md
